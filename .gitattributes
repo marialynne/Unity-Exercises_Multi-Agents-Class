@@ -1,0 +1,11 @@
+EjemploFlask[[:space:]]2 filter=lfs diff=lfs merge=lfs -text
+Light-Excercise-Dog.unitypackage filter=lfs diff=lfs merge=lfs -text
+M2_Pyramid-And-Blender-Car.unitypackage filter=lfs diff=lfs merge=lfs -text
+M4_Models-Cars-BB8.unitypackage filter=lfs diff=lfs merge=lfs -text
+Occlusion-Culling.unitypackage filter=lfs diff=lfs merge=lfs -text
+Robots_Cellar.unitypackage filter=lfs diff=lfs merge=lfs -text
+SMT_App.app filter=lfs diff=lfs merge=lfs -text
+Smart-Traffic-Lights_Project.unitypackage filter=lfs diff=lfs merge=lfs -text
+3_Manual[[:space:]]IBM[[:space:]]Cloud[[:space:]]-[[:space:]]Python.pdf filter=lfs diff=lfs merge=lfs -text
+SMTWEBGL.zip filter=lfs diff=lfs merge=lfs -text
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
