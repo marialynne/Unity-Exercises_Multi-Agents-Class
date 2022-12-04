@@ -1,3 +1,12 @@
 [submodule "Traffic-Light-Multi-Agents_Flask-and-Mesa"]
 	path = Traffic-Light-Multi-Agents_Flask-and-Mesa
 	url = https://github.com/ManuelCamachoPadilla/Traffic-Light-Multi-Agents_Flask-and-Mesa.git
+[submodule "Box-Picking-Robots-Multi-Agents_Mesa"]
+	path = Box-Picking-Robots-Multi-Agents_Mesa
+	url = https://github.com/ManuelCamachoPadilla/Box-Picking-Robots-Multi-Agents_Mesa.git
+[submodule "Pyramid-Rotation-With-Math-In-Unity"]
+	path = Pyramid-Rotation-With-Math-In-Unity
+	url = https://github.com/ManuelCamachoPadilla/Pyramid-Rotation-With-Math-In-Unity.git
+[submodule "Roomba-vacuum-Cleaner_Mesa"]
+	path = Roomba-vacuum-Cleaner_Mesa
+	url = https://github.com/ManuelCamachoPadilla/Roomba-vacuum-Cleaner_Mesa.git
